@@ -13,7 +13,7 @@ function WorkWithMeSection() {
         <br/>
         
         <p>Book a free consultation:</p>
-        <h3 className="greentext">yashbajaj4444@gmail.com</h3>
+        <h3 className="greentext">yashxbajaj@gmail.com</h3>
 
         </div>
     );
