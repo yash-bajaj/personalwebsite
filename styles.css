@@ -1,0 +1,8 @@
+
+body{
+    background: rgb(2,9,17);
+    background: linear-gradient(149deg, rgba(2,9,17,1) 0%, rgba(2,9,17,1) 0%, rgba(2,9,17,1) 100%);
+}
+.greentext{
+        color: rgb(153,232,206);
+}
