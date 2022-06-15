@@ -1,0 +1,20 @@
+h1{
+    margin-left:5%;
+    color: white;
+    font-size: 50px;
+}
+p{
+    margin-left: 5%;
+    color: white;
+    font-size: 28px;
+}
+.halfcircle{
+    width: 35%;
+    float:right;
+}
+.namesection{
+    width: 100%;
+    float: left;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
